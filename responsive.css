@@ -44,9 +44,7 @@
   .bottom {
     height: 140px;
   }
-  .icons i {
-    height: 8px;
-  }
+  
   #myProgressBar {
    cursor: pointer;
  }
